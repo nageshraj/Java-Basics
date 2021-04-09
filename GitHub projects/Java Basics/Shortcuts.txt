@@ -1,0 +1,21 @@
+alt+space+c= close
+
+alt + tab = swap tabs
+
+Windows+ up = maximize
+Windows+ down = minimize
+Windows+ right = align right
+Windows+ left = align left
+
+
+Eclipse shortcuts:
+ctrl+ n =  new
+ctrl + space = autocomplete
+ctrl + shift + f = auto align
+alt+shift+s = generate constructor
+ctrl+shift+s = save all files
+ctrl+shift+o = remove and add imports
+
+Debug:
+come out of debug = f8
+ctrl+shift+i = checks condition if its true or false
